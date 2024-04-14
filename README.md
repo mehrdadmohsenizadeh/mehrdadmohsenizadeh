@@ -4,7 +4,7 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 
 <h1>Skills</h1>
 
-<h3>Languages</h3>
+<h2>Languages</h2>
 <img align="left" alt="Python" height="35px" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 <img align="left" alt="C++" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Java" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -35,8 +35,6 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <img align="left" alt="Spark" width="70px" style="padding-right:10px;" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2018/05/spark-logo-cropped.png?fit=345%2C183&ssl=1" />
 <img align="left" alt="Hive" width="50px" style="padding-right:10px;" src="https://github.com/mehrdadmohsenizadeh/mehrdadmohsenizadeh/assets/64576228/bdde8d0c-8a0a-4147-a5ba-eb7eb4a95796" />
 <img align="left" alt="Flink" width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apache_Flink_logo.svg/2560px-Apache_Flink_logo.svg.png" />
-<img align="left" alt="HBase" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" />
-<img align="left" alt="MLib" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" />
 
 <br></br>
 
@@ -59,6 +57,7 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 
 <h2>Software</h2>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Databricks" width="40px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png" />
 <img align="left" alt="Docker" height="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373553/docker.svg" />
 <img align="left" alt="Kubernetes" height="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYI17Mk9ZiVd9F-PpXb3wjE9H0xAM4aWL1aS7nwbXMQ&s" />
 <img align="left" alt="MongoDB" height="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
@@ -69,7 +68,7 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 
 <br></br>
 
-<h2>SaaS</h2>
+<h2>OS</h2>
 <img align="left" alt="Windows" height="30px" style="padding-right:10px;" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" />
 <img align="left" alt="macOS" height="25px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/macos-logo-svg-vector.svg" />
 <img align="left" alt="Linux" height="30px" style="padding-right:10px;" src="https://cdn.pixabay.com/photo/2014/03/24/10/46/tux-293844_640.png" />
