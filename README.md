@@ -68,6 +68,7 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 
 <h2>Databases</h2>
 <img align="left" alt="Amazon RDS" width="32px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" />
+<img align="left" alt="GCP CloudSQL" height="35px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-UJZsGUnlap7ZpsikwAqrxEJQqIyj-XO0z62JsL8Sw&s" />
 <img align="left" alt="SQL Server" width="40px" style="padding-right:10px;" src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/microsoft-sql-server-logo-vector-svg-PDgP.png" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
 <img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" />
@@ -75,6 +76,7 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <br></br>
 
 <img align="left" alt="Amazon DynamoDB" height="35px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" />
+<img align="left" alt="GCP BigTable" height="40px" style="padding-right:10px;" src="https://cloud-icons.onemodel.app/gcp/bigtable/bigtable.png" />
 <img align="left" alt="MongoDB" height="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <img align="left" alt="Apache Cassandra" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png" />
 <img align="left" alt="Apache HBase" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/hbase.svg" />
@@ -97,15 +99,15 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <!-- <img align="left" alt="ExpressJS" width="120px" style="padding-right:10px;" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" /> -->
 
+<!--
 <br></br>
-
 <h2>Operating System</h2>
 <img align="left" alt="Windows" height="30px" style="padding-right:10px;" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" />
 <img align="left" alt="macOS" height="30px" style="padding-right:10px;" src="https://logowik.com/content/uploads/images/apple-black8038.jpg" />
 <img align="left" alt="Linux" height="30px" style="padding-right:10px;" src="https://cdn.pixabay.com/photo/2014/03/24/10/46/tux-293844_640.png" />
+-->
 
 <br></br>
-
 
 <br></br>
 
