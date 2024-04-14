@@ -12,11 +12,11 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <img align="left" alt="SQL Server" width="40px" style="padding-right:10px;" src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/microsoft-sql-server-logo-vector-svg-PDgP.png" />
 <img align="left" alt="Pig" width="80px" style="padding-right:10px;" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_eaf51648036e4bebab425f4366019f75/apache-pig.png" />
 <img align="left" alt="Bash" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="MATLAB" width="38px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
+<img align="left" alt="R" width="38px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
 
 <br></br>
 
-<img align="left" alt="MATLAB" width="38px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
-<img align="left" alt="R" width="38px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="LaTeX" width="70px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" />
@@ -28,13 +28,18 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <img align="left" alt="Azure" width="28px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
 
 <br></br>
-
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
+---
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
+<img align="left" alt="ScikitLearn" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
+
+<br></br>
+
 <img align="left" alt="Spark" width="70px" style="padding-right:10px;" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2018/05/spark-logo-cropped.png?fit=345%2C183&ssl=1" />
 <img align="left" alt="Hadoop" width="60px" style="padding-right:10px;" src="https://logowik.com/content/uploads/images/hadoop7135.jpg" />
 <img align="left" alt="Hive" width="40px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hive_logo_icon_167867.png" />
 <img align="left" alt="Flink" width="40px" style="padding-right:10px;" src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" />
+<img align="left" alt="Hudi" width="55px" style="padding-right:10px;" src="https://hudi.apache.org/assets/images/logo-big.png" />
 
 <br></br>
 
@@ -59,8 +64,17 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <img align="left" alt="Databricks" width="40px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png" />
 <img align="left" alt="Docker" height="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373553/docker.svg" />
 <img align="left" alt="Kubernetes" height="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYI17Mk9ZiVd9F-PpXb3wjE9H0xAM4aWL1aS7nwbXMQ&s" />
+<img align="left" alt="Airflow" height="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQafBudELokM2IoKPRzRHz1dxvFYEFe9b-qmQ3XquSEOQ&s" />
+
+<br></br>
+
 <img align="left" alt="MongoDB" height="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
+<img align="left" alt="DynamoDB" height="35px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" />
 <img align="left" alt="Cassandra" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png" />
+<img align="left" alt="HBase" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/hbase.svg" />
+
+<br></br>
+
 <img align="left" alt="PowerBI" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 <img align="left" alt="Tableau" height="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 <img align="left" alt="Apache Hue" height="25px" style="padding-right:10px;" src="https://pbs.twimg.com/media/DcNg-aiV0AAXh-k.png" />
