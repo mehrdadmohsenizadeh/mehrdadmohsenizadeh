@@ -5,42 +5,46 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <h1>Skills</h1>
 
 <h2>Languages</h2>
-<p align="left">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40""/>
-  </a>
-  <a href="https://www.scala-lang.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-<a href="#"><img align="left" alt="Python" height="35px" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /></a>
-<img align="left" alt="C++" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Scala" width="20px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/scala-4.svg" />
-<img align="left" alt="Bash" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="MATLAB" width="38px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
-<img align="left" alt="R" width="38px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
-<img align="left" alt="LaTeX" width="70px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" />
+<a href="https://www.python.org">
+  <img align="left" alt="Python" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+</a>
+<a href="https://www.w3schools.com/cpp/">
+  <img align="left" alt="C++" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="left" alt="JavaScript" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+</a>
+<a href="https://www.java.com">
+  <img align="left" alt="Java" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+</a>
+<a href="https://www.scala-lang.org">
+  <img align="left" alt="Scala" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img align="left" alt="Bash" height="35px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+</a>
+<a href="https://www.mathworks.com/">
+  <img align="left" alt="MATLAB" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
+</a>
+<a href="https://www.r-studio.com/">
+  <img align="left" alt="R" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
+</a>
+<a href="">
+  <img align="left" alt="LaTeX" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" />
+</a>
 
 <br></br>
 
 <h2>Cloud</h2>
-<img align="left" alt="AWS" width="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
-<img align="left" alt="GCP" width="35px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" />
-<img align="left" alt="Azure" width="31px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
+<a href="https://aws.amazon.com">
+  <img align="left" alt="AWS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+</a>
+<a href="https://cloud.google.com">
+  <img align="left" alt="GCP" height="30px" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" />
+</a>
+<a href="https://azure.microsoft.com/en-in/">
+  <img align="left" alt="Azure" height="35px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+</a>
 
 <br></br>
 
@@ -72,7 +76,11 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <img align="left" alt="SciPy" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/2048px-SCIPY_2.svg.png" />
 <img align="left" alt="Matplotlib" width="32px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLd8ByI6wtHay1qL7dedyLCtl6PwKne6hUbVn0FGvhg&s" />
 <img align="left" alt="Plotly" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/5997976?s=400&v=4" />
-<img align="left" alt="Bokeh" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6t5V6RjCZ9Sg9orOx-hFlaoc5K5mQPO9x_u73ZbMwYw&s" />
+<img align="left" alt="Seaborn" width="35px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+<img align="left" alt="Bokeh" width="33px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6t5V6RjCZ9Sg9orOx-hFlaoc5K5mQPO9x_u73ZbMwYw&s" />
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="35"/>
+</a>
 
 <br></br>
 
