@@ -81,7 +81,6 @@ I'm Mehrdad ( <b><code>MARE-dahd</code></b> ) Mohsenizadeh ( <b><code>moh-SEN-ee
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="35"/>
 </a>
-
 <br></br>
 
 <h2>DevOps</h2>
